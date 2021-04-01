@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = "1509785882:AAFVttMOfk7ZvNrkK_BUR29HdPxFCbxf6xc"
-    APP_ID = "2963697"
-    API_HASH = "2775a2f2fc7348bcdf2995a0c11a7726"
-    DATABASE_URL = "https://data.heroku.com/datastores/ecaf835a-6c35-44c6-803f-34a4c0cdbffc"
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "1616042710:AAHZ5doBpdVM0WXZiWpuOnK-yXCVcNB_CFA"
+    APP_ID = "3954564"
+    API_HASH = "b4e21aa30ea0eb6c9ed14cb2933dab38"
+    DATABASE_URL = "postgres://hivwtiboyttfqi:2902bc719c236d887502fd653cd6bd0a2b959e35c09fffcb6b862fe471298608@ec2-18-214-208-89.compute-1.amazonaws.com:5432/d33mtd42f1fp6k"
+    SUDO_USERS = "1796787342 840504078 709724677" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/joinchat/H6tJlqa9vd_4m4WE"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "913783051485-nl4gp0rj2t20hca8qs4afad1gsls56i8.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "nK6UiePWUS9yHVU51DjkhsD0"
